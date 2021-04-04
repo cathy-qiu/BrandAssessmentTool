@@ -6,9 +6,9 @@
 from two databases provided by the Lazaridis School of Business and Economics at [Wilfrid Laurier University](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/index.html)  
 
 In business branding, it is important to analyze consumer data to better understand the demographic of consumers.  
-An analysis is done to evaluate the association between a specific brand and its consumers' background (sex, age, education, income) by calculating Euclidean distance.
+An analysis is done in **Python** to evaluate the association between a specific brand and its consumers' background (sex, age, education, income) by calculating Euclidean distance.
 
-**Libraries**:
+**Libraries**:  
 Pandas  
 NumPy  
 Plotly
